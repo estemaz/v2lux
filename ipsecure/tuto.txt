@@ -1,0 +1,24 @@
+-----------------------------------------
+ Myblacklist : Version 1.2
+-----------------------------------------
+
+Installez MyBlacklist c'est très simple !
+
+1.Ouvrir index.php
+2.Allez a la ligne : 23
+3."url=page.php" = la page de destination,"refresh:2" = Le temps de refresh de la page.
+4.Modifiez les selons vos besoins 
+
+Bravo vous avez bientot fini !
+
+EXPLICATIONS : "page.php" = la page ou vous voulez activé la blacklist.
+
+5.Ouvrez page.php (la page ou vous voulez activé la blacklist)
+6.Allez a la ligne : 39
+7.Ici vous pouvez modifier l'url ou la verification se trouve(de base : index.php)
+
+Pour ajouté des gens a la blacklist :
+
+1.Ouvrir index.php
+2.Allez a la ligne : 3
+3.Apres le "==" dans "" suprimez ::1 et ajoutez les ip (ajouter :  or "::2"  pour en mettre plusieurs)
